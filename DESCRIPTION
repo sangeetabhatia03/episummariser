@@ -1,0 +1,16 @@
+Package: episummariser
+Title: Summarise an epicurve using key metrics relating outbreak intensity and duration.
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Sangeeta",
+           family = "Bhatia",
+           role = c("aut", "cre"),
+           email = "sangeetabhatia03@gmail.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: This package calculates key measures of outbreak intensity and duration.
+    Some of the measures of interest are: probability of occurrence of an epidemic,
+    time of epidemic peak, time to extinction, attack rate, timing to geographic spread,
+    and proportion of spatial units affected at the end of the outbreak
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
